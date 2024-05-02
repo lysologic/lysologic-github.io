@@ -12,4 +12,4 @@ Are you concerned about the security of your digital assets? Lysologic specializ
 
 ## Contact Us
 
-For inquiries or project collaborations, feel free to reach out to us at lysologic ‘at’ gmail.com
+For inquiries or project collaborations, feel free to reach out to us at `lysologic ‘at’ gmail.com`
